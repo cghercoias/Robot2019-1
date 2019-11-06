@@ -1,7 +1,7 @@
 /*
    Robot 2019
    Utilizes the Arduino as an I2C slave of the RoboRio for handling some tasks
-   Andrew Sealing
+   Andrew S.
 */
 
 #include "I2C.h"
